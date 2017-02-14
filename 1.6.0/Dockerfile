@@ -1,5 +1,5 @@
 FROM srdc/scala:2.10.6
-MAINTAINER SRDC Ltd. <technical@srdc.com.tr>
+MAINTAINER SRDC Corp. <technical@srdc.com.tr>
 
 ENV SPARK_VERSION 1.6.0
 
